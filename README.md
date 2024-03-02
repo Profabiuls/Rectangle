@@ -8,7 +8,7 @@ Delete a rectangle by ID
 Exit the program
 The program uses a Scanner object to read user input and a switch statement to handle different menu options.
 ---
-#Key features:
+# Key features:
 
 Object-oriented programming using the RettangoloArray class
 Exception handling to prevent crashes
