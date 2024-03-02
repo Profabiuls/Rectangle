@@ -1,4 +1,3 @@
-
 ## This Java code is a menu-driven program that allows users to:
 ---
 ## Create new rectangles
