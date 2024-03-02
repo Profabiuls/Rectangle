@@ -13,6 +13,6 @@ Object-oriented programming using the RettangoloArray class
 Exception handling to prevent crashes
 User-friendly interface with clear instructions
 --
-# Note:
+## Note:
  This is a basic example and can be extended to include more features.
  Error checking should be added to ensure valid user input.
